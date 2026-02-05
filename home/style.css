@@ -20,15 +20,7 @@ body {
     justify-content: center;
 }
 
-.s1 {
-    width: 100%;
-    height: auto;
-}
 
-.img-s1 {
-    width: 100%;
-    box-shadow: 0 4px 20px #090909;
-}
 
 .title {
     font-family: "Krona One", sans-serif;
